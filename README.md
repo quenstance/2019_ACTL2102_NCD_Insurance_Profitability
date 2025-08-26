@@ -74,7 +74,7 @@ Profitability was comprehensively assessed across three key timeframes:
 
 * **Long-Run:** Determined by deriving the **limiting probabilities** from the Markov chain, after establishing its ergodicity and irreducibility to confirm the existence of these long-term probabilities.
 
-For an in-depth explanation of the mathematical calculations, functions, and design philosophy, please refer to the [TECHNICAL.md](PATH) file.
+For an in-depth explanation of the mathematical calculations, functions, and design philosophy, please refer to the [TECHNICAL.md](https://github.com/quenstance/2019_ACTL2102_NCD_Insurance_Profitability/blob/474caf832ef90bcb3fa49a47d273679de91ae215/TECHNICAL.md) file.
 
 ---
 
