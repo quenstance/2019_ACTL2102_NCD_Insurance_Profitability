@@ -1,5 +1,3 @@
-Markdown
-
 # NCD Insurance Profitability
 
 ## Overview
