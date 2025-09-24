@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project delves into the profitability and design of a **No-Claim-Discount (NCD) car insurance scheme** for Skippie Insurance. It addresses the critical issue of the scheme's low-profit margin and its long-term viability by evaluating the current design, projecting future financial outcomes, and proposing actionable improvements. The analysis was developed within the context of the ACTL2102 Foundations of Actuarial Models / ACTL5103 Stochastic Modelling for Actuaries university course.
+This project delves into the profitability and design of a **No-Claim-Discount (NCD) car insurance scheme** for Skippie Insurance. It addresses the critical issue of the scheme's low-profit margin and its long-term viability by evaluating the current design, projecting future financial outcomes, and proposing actionable improvements. The analysis was developed within the context of the ACTL2102 Foundations of Actuarial Models / ACTL5103 Stochastic Modeling for Actuaries university course.
 
-For more project information, refer to [project web page](https://quenstance.pages.dev/projects/ncd-insurance-profitability/).
+For more project information, visit this [project web page](https://quenstance.pages.dev/projects/ncd-insurance-profitability/).
 
 ---
 
